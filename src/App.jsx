@@ -13,7 +13,7 @@ function App() {
       <Navbar/>
       <Main />
       <Partner />
-      <Aboutme />
+      {/* <Aboutme /> */}
       <Section />
       <Systems />
       <Feedback />
